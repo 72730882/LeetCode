@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/72730882/LeetCode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/72730882/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/72730882/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
