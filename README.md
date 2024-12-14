@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/72730882/LeetCode/tree/master/0066-plus-one) |
 | [0503-next-greater-element-ii](https://github.com/72730882/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/72730882/LeetCode/tree/master/0739-daily-temperatures) |
+| [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/72730882/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/72730882/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/72730882/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/72730882/LeetCode/tree/master/0739-daily-temperatures) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
