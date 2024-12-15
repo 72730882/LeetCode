@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/72730882/LeetCode/tree/master/0066-plus-one) |
 | [0503-next-greater-element-ii](https://github.com/72730882/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/72730882/LeetCode/tree/master/0739-daily-temperatures) |
+| [1217-relative-sort-array](https://github.com/72730882/LeetCode/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/72730882/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/72730882/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1217-relative-sort-array](https://github.com/72730882/LeetCode/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -75,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/72730882/LeetCode/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/72730882/LeetCode/tree/master/2502-sort-the-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/72730882/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
